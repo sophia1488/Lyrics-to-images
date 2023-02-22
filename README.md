@@ -14,3 +14,6 @@ conda activate ldm
 `./run.sh`
 
 You can change `lyrics_file` or `step`.
+
+### Aesthetic gradients
+- SAC is from [simulacra-aesthetic-captions dataset](https://github.com/JD-P/simulacra-aesthetic-captions)
